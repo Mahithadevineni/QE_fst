@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-05-28T14:34:17 IST" name="Default suite" finished-at="2025-05-28T14:34:27 IST" duration-ms="10222">
+    <groups>
+    </groups>
+    <test started-at="2025-05-28T14:34:17 IST" name="Default test" finished-at="2025-05-28T14:34:27 IST" duration-ms="10222">
+      <class name="TestAPI2">
+        <test-method signature="AddPetDetails()[pri:0, instance:TestAPI2@6e16b8b5]" started-at="2025-05-28T14:34:17 IST" name="AddPetDetails" finished-at="2025-05-28T14:34:21 IST" duration-ms="4754" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddPetDetails -->
+        <test-method signature="UpdatePetStatus()[pri:0, instance:TestAPI2@6e16b8b5]" started-at="2025-05-28T14:34:21 IST" name="UpdatePetStatus" finished-at="2025-05-28T14:34:23 IST" duration-ms="1683" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UpdatePetStatus -->
+        <test-method signature="GetPetById()[pri:3, instance:TestAPI2@6e16b8b5]" started-at="2025-05-28T14:34:23 IST" name="GetPetById" finished-at="2025-05-28T14:34:25 IST" duration-ms="2066" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetPetById -->
+        <test-method signature="DeletePetById()[pri:4, instance:TestAPI2@6e16b8b5]" started-at="2025-05-28T14:34:25 IST" name="DeletePetById" finished-at="2025-05-28T14:34:27 IST" duration-ms="1613" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeletePetById -->
+      </class> <!-- TestAPI2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
